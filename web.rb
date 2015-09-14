@@ -16,4 +16,4 @@ loop do
 
   socket.print response
   socket.close
-__END__
+end
